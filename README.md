@@ -73,17 +73,3 @@ flowchart LR
   API --> Billing["Billing provider"]
   API --> Email["Email provider"]
 ```
-
-## Safety Boundary
-
-Publishable:
-
-- Platform architecture.
-- Synthetic schemas.
-- Public-safe route examples.
-- Screenshots using fake organizations and datasets.
-- Local development skeleton.
-
-Keep private:
-
-- Production billing logic, real account/customer data, private share tokens, real storage bucket names, provider keys, audit/event data, proprietary delivery rules, and unreleased roadmap material.
