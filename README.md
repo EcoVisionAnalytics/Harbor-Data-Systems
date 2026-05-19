@@ -1,4 +1,4 @@
-# HarborSystems Cloud Geospatial Platform
+# HarborSystems Cloud Data Delivery Platform
 
 ![HarborSystems mark](assets/logo/harborsystems-mark.svg)
 
